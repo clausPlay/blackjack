@@ -6,7 +6,7 @@
 
 
 
-<img align="middle" width="700" src="assets/hipster.jpg" alt="github hipster" />
+<img align="middle" width="700" src="assets/ninja.jpg" alt="github hipster" />
 
 
 # First Contributions for app
